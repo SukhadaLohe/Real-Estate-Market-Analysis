@@ -1,4 +1,4 @@
-# 🏡 Real Estate Market Analysis
+# 🏡 Estate Market Analysis
 
 ## 📖 Overview
 
