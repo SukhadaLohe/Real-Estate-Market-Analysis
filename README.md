@@ -6,7 +6,7 @@ This project explores the Gurgaon residential real estate market using **Explora
 
 The analysis is based on **19,516 residential property listings** containing information such as price, area, BHK configuration, property type, builder details, construction status, and RERA approval.
 
----
+
 
 ## 📑 Table of Contents
 
@@ -19,13 +19,13 @@ The analysis is based on **19,516 residential property listings** containing inf
 * [Key Insights](#-key-insights)
 * [Conclusion](#-conclusion)
 
----
+
 
 ## 🎯 Project Goal
 
 To analyze Gurgaon’s residential real estate market using data analytics and identify the factors that influence property prices. The project aims to generate data-driven insights regarding locality, area, builder reputation, property type, RERA approval, and construction status.
 
----
+
 
 ## 📊 Dataset
 
@@ -44,7 +44,6 @@ To analyze Gurgaon’s residential real estate market using data analytics and i
 * RERA Approval Status
 * Locality
 
----
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +54,7 @@ To analyze Gurgaon’s residential real estate market using data analytics and i
 * Seaborn
 * Visual Studio Code
 
----
+
 
 ## ❓ Business Questions Answered
 
@@ -70,7 +69,7 @@ To analyze Gurgaon’s residential real estate market using data analytics and i
 9. Which builders consistently price higher?
 10. Are larger homes always more expensive per square foot?
 
----
+
 
 ## 🔄 Project Workflow
 
@@ -99,7 +98,7 @@ To analyze Gurgaon’s residential real estate market using data analytics and i
 <img width="640" height="480" alt="Figure_2" src="https://github.com/user-attachments/assets/e7845b20-fea8-4a82-a39d-5acbfb75c11f" />
 
 
----
+
 
 ## 💡 Key Insights
 
@@ -110,13 +109,13 @@ To analyze Gurgaon’s residential real estate market using data analytics and i
 * Identified builders with premium pricing strategies.
 * Measured locality-wise price per square foot trends.
 
----
+
 
 ## 🏁 Conclusion
 
 This project demonstrates how data analytics can be used to understand real-world real estate markets and support data-driven decision-making. Through EDA and visualization, valuable insights were extracted from 19,516 Gurgaon property listings, highlighting key pricing drivers and investment opportunities.
 
----
+
 
 ### ⭐ If you found this project interesting, feel free to star the repository!
 
